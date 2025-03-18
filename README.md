@@ -1,4 +1,4 @@
 # Notice
 AI-LLM Telegram Bot
 
-Made by @whityfox - tg
+BIK2405 Kosatkin Semyon
